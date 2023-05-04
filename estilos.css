@@ -1,0 +1,40 @@
+body {
+      background-color: rgb(255, 255, 255);
+}
+
+.centertext{
+text-align: center;
+}
+.card{
+      margin: 50px 50px ;
+}
+
+.carousel-caption { 
+      width:200px; 
+      background: rgba(255, 255, 255, 0.369) ;
+        text-align:right; 
+        top:30%; 
+        left:auto; bottom:auto; 
+        
+}
+
+.confondo {
+background-color: rgb(255, 255, 255);
+
+}
+.bordeblanco {
+border-color: rgba(240, 255, 255, 0.339);
+border-width: 10px;
+
+}
+
+.img-fluid {
+      max-width: 100%;
+      height: auto;
+}
+.placex {
+background-color: black;
+padding: 20% 20% 50% 50%;
+margin: 50% 50%;
+
+}
